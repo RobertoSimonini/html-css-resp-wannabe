@@ -166,3 +166,16 @@ img {
   }
    
   }
+
+
+  @media screen and (max-width: 768px) {
+    .container {
+        max-width: 85%;
+    }
+  }
+
+  @media screen and (max-width: 1160px) {
+   .container {
+    max-width: 90%;
+   } 
+  }
