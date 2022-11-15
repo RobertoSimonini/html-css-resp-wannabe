@@ -138,10 +138,8 @@ img {
     justify-content: center;
    }
 
-   body {
-    font-family: 'Nunito Sans', sans-serif;
-    color: #b8c1ec;
-    background: #222;
+   .why-us {
+    background-color: #222;
   }
 
    .row {
