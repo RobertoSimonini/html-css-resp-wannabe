@@ -124,6 +124,19 @@ img {
     margin-bottom: 2.5rem;
 }
 
+
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+ @media screen and (max-width: 576px) {
+   .container {
+    max-width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+   }
+
+   
+  }
