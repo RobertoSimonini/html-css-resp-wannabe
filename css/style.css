@@ -140,12 +140,21 @@ img {
 
    .why-us {
     background-color: #222;
+    padding: 2rem 0;
+    margin: 0;
   }
 
    .row {
     flex-wrap: wrap;
     gap: 2rem;
    }
+
+   .steps {
+    margin: 0;
+    padding: 3rem 0;
+    color: #232946;
+    background: #eebbc3;
+}
 
    .lessons .col {
     width: 100%;
